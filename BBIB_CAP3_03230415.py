@@ -1,5 +1,5 @@
 ################################
-# Github Repo link: https://github.com/YourUsername/YourStudentNumber_BIA101_CAP3
+# Github Repo link: https://github.com/03230415/03230415_BIA101_CAP3
 # Your Name: Yangchen Om
 # Your Section: BBIB
 # Your Student ID Number: 03230415
